@@ -1,2 +1,2 @@
 # sentinel
-A pkm. 
+A to-do list.
